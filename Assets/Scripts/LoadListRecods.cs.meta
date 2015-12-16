@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5e912ba8dafcdc44f8bc00352bbb5d62
+timeCreated: 1443744843
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - txtName1: {instanceID: 0}
+  - txtName2: {instanceID: 0}
+  - txtName3: {instanceID: 0}
+  - txtName4: {instanceID: 0}
+  - txtName5: {instanceID: 0}
+  - txtPoint1: {instanceID: 0}
+  - txtPoint2: {instanceID: 0}
+  - txtPoint3: {instanceID: 0}
+  - txtPoint4: {instanceID: 0}
+  - txtPoint5: {instanceID: 0}
+  - guiSkin: {fileID: 11400000, guid: cb2fdd330f1e46e4aa33306536cc1bb5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
